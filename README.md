@@ -3,7 +3,7 @@
 I'm a Software Engineer, working as a Full-stack Engineer at [Indium](https://www.indium.tech/) with experience developing web and mobile applications at organizations like [BikeFolder](https://bikefolder.com/en/), [Bain & Company (Aura Intelligence)](https://www.getaura.ai/), [Nagarro](https://www.nagarro.com/en/), [Mokriya](https://www.crunchbase.com/organization/mokriya-com), [Cognizant](https://www.cognizant.com/us/en), and [Changepond](https://www.changepond.com/). I enjoy designing, developing, and deploying software that addresses problems of all sizes, and I've contributed to multiple end-to-end SaaS products.
 
 ## 🔭 What I'm working on
-- Getting better at using AI Tools (Claude Code, Cursor, etc) to build things faster and better
+- Getting better at using AI Tools (Claude Code, Cursor, V0, etc) to build things faster and better
 
 ## 🌱 Currently learning
 - AI, Agents and Agentic workflows using tools and frameworks (LangChain, LangGraph, Llamaindex, Browser-Use, RAG, MCP, Google's Agent SDK, A2A)
